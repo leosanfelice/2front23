@@ -1,5 +1,5 @@
 body{
-    background-color: #fdf6f6;
+    background-color: #883939;
 }
 nav li{
     display: inline-block;
@@ -7,7 +7,7 @@ nav li{
 }
 nav li a{
     text-decoration: none;
-    color: #000;
+    color: #b8b1b1;
     font-size: 22px;
     font-weight: bold;
     text-transform: uppercase;
@@ -17,12 +17,14 @@ nav a:hover{
     text-decoration: underline;
 }
 header{
-    background: #cecccc;
+    background: url("imagens/bg.jpg");
     padding: 20px 0;
+
 }
 .content{
     width: 940px;
     margin: 0 auto;
+    padding: 20px;
 }
 nav{
     float: right;
@@ -58,4 +60,10 @@ nav{
 }
 .produtos li:hover h2{
     font-size: 35px;
+}
+footer{
+    text-align: center;
+    background: url("imagens/bg.jpg");
+    color: #c78c19;
+    padding: 15px 0;
 }
