@@ -28,7 +28,7 @@ header{
 }
 nav{
     float: right;
-    margin-top: 70px;
+    margin-top: 60px;
 }
 .produtos li{
     display: inline-block;
@@ -69,4 +69,21 @@ footer{
     background: url("imagens/bg.jpg");
     color: #c78c19;
     padding: 15px 0;
+}
+form{
+    margin: 40px 0;
+}
+label{
+    font-size: 25px;
+    width: 80px;
+    display: inline-block;
+}
+input{
+    padding: 5px 25px;
+    width: 50%;
+}
+button{
+    display: inline-block;
+    width: 150px;
+    padding: 5px;
 }

@@ -1,8 +1,11 @@
 body{
-	background: #cccccc;
+	background: #080808;
 }
 p,.centralizar{
 	text-align: center;
+}
+p{ 
+	color: white;
 }
 em strong{
 	color: #FF0000;
@@ -25,4 +28,6 @@ h1,h2{
 		width: 20%;
 		margin-right: 15%;
 		vertical-align: top;
+		color: white;
  }
+
